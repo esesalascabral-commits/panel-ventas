@@ -6,4 +6,7 @@ secondaryBackgroundColor="#f4f6fa"
 textColor="#0f172a"
 
 [server]
-headless=false
+headless = true
+
+[browser]
+gatherUsageStats = false
